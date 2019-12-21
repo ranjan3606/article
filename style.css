@@ -1,0 +1,15 @@
+#short {
+    list-style: inside square;
+    font-size: 20px;
+    background: white;
+    width: 500px;
+    margin: auto;
+    padding: 0;
+    box-shadow: 0 0 0 20px rgba(126, 33, 33, 0.815);
+  }
+  #short li {
+    border-bottom: 1px solid #c5afaf;
+    padding: 20px;
+  }
+ 
+  
